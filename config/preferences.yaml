@@ -1,0 +1,17 @@
+priority_defaults:
+  academics: 4
+  health: 4
+  recruiting: 3
+  clubs: 2
+  social: 2
+  personal: 1
+  other: 1
+
+deadline:
+  default_due_time: "23:59"
+  timezone: "America/Denver"
+
+planning:
+  upcoming_days: 7
+  weekly_lookahead_days: 14
+  daily_focus_limit: 3

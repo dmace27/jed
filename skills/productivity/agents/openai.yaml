@@ -1,0 +1,4 @@
+interface:
+  display_name: "Productivity Planner"
+  short_description: "Manage Apple tasks, events, and workload"
+  default_prompt: "Use $productivity to review my current Calendar and Reminders and tell me what to focus on today."

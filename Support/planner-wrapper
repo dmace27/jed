@@ -1,0 +1,10 @@
+#!/bin/sh
+set -eu
+
+planner_binary="$HOME/Applications/Planner.app/Contents/MacOS/planner"
+if [ ! -x "$planner_binary" ]; then
+    echo "Planner is not installed. Run scripts/install-local.sh from the repository." >&2
+    exit 1
+fi
+
+exec "$planner_binary" "$@"
