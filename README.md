@@ -1,7 +1,7 @@
 # Author's Note
 - - - - - 
 I wanted an AI native calendar that would work if I spoke into it and manage all my
-to do's and calendar without me having to do anything. Its Codex skills on top of a 
+to dos and calendar without me having to do anything. Its Codex skills on top of a 
 custom CLI that scrapes my current calendar and to do list and then gives me a report.
 
 
