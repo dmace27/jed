@@ -9,7 +9,7 @@ priority_defaults:
 
 deadline:
   default_due_time: "23:59"
-  timezone: "America/Denver"
+  timezone: "America/Atlanta"
 
 planning:
   upcoming_days: 7
