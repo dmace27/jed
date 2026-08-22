@@ -1,3 +1,10 @@
+# Author's Note
+- - - - - 
+I wanted an AI native calendar that would work if I spoke into it and manage all my
+to do's and calendar without me having to do anything. Its Codex skills on top of a 
+custom CLI that scrapes my current calendar and to do list and then gives me a report.
+
+
 # Planner
 
 Planner is a local, on-demand control layer over Apple Calendar and Apple Reminders. Calendar holds fixed commitments, Reminders holds obligations, and a small SQLite database holds only estimates, work logs, temporary focus overrides, and planner-linked subtasks.
